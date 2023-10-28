@@ -1,6 +1,7 @@
 # How to run below assignment
 
 - Clone repository to local machine
+- Add employees.csv and expenses.csv to /data folder (instead of employees_placeholder.txt and expenses_placeholder.txt)
 - rename .exampleenv to .env or create your own .env file
 - Run steps outlined under "Steps We Will Take to Review Your Solution"
 
