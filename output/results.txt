@@ -1,0 +1,4 @@
+Summary of transactions:
+1. Overall highest expense : $ 44,024,796.68 by John Smith
+2. Overall highest expense for Q1 2022 : $ 11,013,594.08 by Tim Wong
+3. Overall highest average expense : $ 50.02 by John Smith

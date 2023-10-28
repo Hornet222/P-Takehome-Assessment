@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://postgres:example@postgres:5432/mydatabase
+TARGET_DB_NAME=mydatabase
